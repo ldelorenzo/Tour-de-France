@@ -56,7 +56,6 @@ for row in reader:
 
 print resultsOffset
 
-print np.histogram(resultsOffset,bins=10)
 
 
 
